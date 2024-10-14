@@ -22,6 +22,10 @@ if = {
 		target = QAT
 		autonomous_state = autonomy_integrated_puppet
 	}
+	set_autonomy = {
+		target = JBS
+		autonomous_state = autonomy_dominion
+	}
 }
 #puppet = YEM
 
