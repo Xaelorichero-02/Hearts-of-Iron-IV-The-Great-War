@@ -297,9 +297,9 @@ bookmarks = {
 				SAU_tribalism
 			}
 			focuses = {
-				JBS_
-				JBS_
-				JBS_
+				JBS_attack_nejd
+				JBS_get_rif_of_turkish_yoke
+				JBS_inflationary_policies
 			}
 		}
 
