@@ -1,6 +1,8 @@
 ideas = {
 	country = {
 		JSB_strong_emirate_1 = {
+
+			picture = generic_intel_bonus
 				
 			allowed = {
 				always = no
@@ -17,7 +19,7 @@ ideas = {
 		JSB_strong_emirate_2 = {
 
 			name = JSB_strong_emirate_1
-			picture = JSB_strong_emirate_1
+			picture = generic_intel_bonus
 				
 			allowed = {
 				always = no
@@ -34,7 +36,7 @@ ideas = {
 		JSB_strong_emirate_3 = {
 
 			name = JSB_strong_emirate_1
-			picture = JSB_strong_emirate_1
+			picture = generic_intel_bonus
 				
 			allowed = {
 				always = no
@@ -51,7 +53,7 @@ ideas = {
 		JSB_strong_emirate_4 = {
 
 			name = JSB_strong_emirate_1
-			picture = JSB_strong_emirate_1
+			picture = generic_intel_bonus
 				
 			allowed = {
 				always = no
@@ -68,7 +70,7 @@ ideas = {
 		JSB_strong_emirate_5 = {
 
 			name = JSB_strong_emirate_1
-			picture = JSB_strong_emirate_1
+			picture = generic_intel_bonus
 				
 			allowed = {
 				always = no
