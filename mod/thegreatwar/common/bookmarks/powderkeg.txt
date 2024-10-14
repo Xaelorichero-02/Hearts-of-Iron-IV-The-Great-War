@@ -54,7 +54,7 @@ bookmarks = {
 			history = "GER_POWDERKEG_DESC"
 			ideology = neutrality
 			ideas = {
-				#general_staff
+				General_staff_ww1
 				GER_ww1_North_German_Confederation
 				ww1_Scramble_for_Africa
 			}
@@ -120,6 +120,8 @@ bookmarks = {
 			ideology = democratic
 			ideas = {
 				USA_ww1_us_war_department
+				neutrality_idea
+				home_of_the_free
 			}
 			focuses = {
 				USA_ww1_MexicanRevolution
@@ -197,6 +199,7 @@ bookmarks = {
 			ideology = neutrality
 			ideas = {
 				state_shintoism
+				JAP_zaibatsus
 			}
 			focuses = {
 				JAP_ww1_Japan_Korea_Treaty
@@ -237,7 +240,7 @@ bookmarks = {
 			history = "HOL_POWDERKEG_DESC"
 			ideology = democratic
 			ideas = {
-
+				neutrality_idea
 			}
 			focuses = {
 				HOL_ww1_ger_exchange_plan
@@ -276,13 +279,27 @@ bookmarks = {
 			ideas = {
 				CAN_idea_quebec_tension
 				CAN_broken_economy
-				CAN_broken_infrastructure
 				CAN_broken_industry
 			}
 			focuses = {
 				CAN_political
 				CAN_Americanism
 				CAN_kingdom_own
+			}
+		}
+
+		"JBS"={
+			minor = yes
+			history = "JBS_POWDERKEG_DESC"
+			ideology = neutrality
+			ideas = {
+				ww1_Faith_Allah
+				SAU_tribalism
+			}
+			focuses = {
+				JBS_
+				JBS_
+				JBS_
 			}
 		}
 
